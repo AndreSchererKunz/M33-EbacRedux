@@ -30,7 +30,7 @@ describe('Testes para o componente header', () => {
               plataformas: ['Windows', 'PS5', 'Xbox Series S/X'],
               preco: 199.9,
               precoAntigo: 299.9,
-              titulo: 'Elden Ring'
+              titulo: 'Hogwarts Legacy'
             }
           ]
         }
